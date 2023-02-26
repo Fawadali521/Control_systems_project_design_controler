@@ -1,0 +1,7 @@
+a 2X2
+k 1x2
+l 2x1
+q p 2x2
+
+d colum b
+d rows c
